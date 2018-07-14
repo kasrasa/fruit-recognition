@@ -1,2 +1,2 @@
 # fruit-recognition
-the device is made to measure weight and color of the object and recognize fruit type using fuzzy logic if the object is a fruit and it is defined in its programm
+the device is made to measure weight and color of the object and recognize fruit type using fuzzy logic if the object is a fruit and it is defined in its program. in this program labview and arduino is used.the weight of the fruit is measured with a 5kg loadcell connected to a arduino using hx711 module and image processing is done with labview. this program use the middle pixel of the image and recognize the color thus find the fruit type.
